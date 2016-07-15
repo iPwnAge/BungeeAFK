@@ -1,0 +1,5 @@
+name: BetterAFK
+version: 0.1
+author: Proplex (David Lohle)
+description: Prototype AFK plugin that supports multiple servers
+main: com.ipwnage.betterafk.BetterAFK
